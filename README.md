@@ -1,1 +1,2 @@
-# Prabhjyot-s-Jumping-Box
+# collisionAlgorithm
+Algorithm to detect collision between two objects
